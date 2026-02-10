@@ -1,6 +1,6 @@
-# WasmEdge LFX Mentorship Pre-tests - JIT Per-function Compilation
+# WasmEdge Pre-tests - JIT Per-function Compilation
 
-This repository contains my submission materials for the **WasmEdge LFX Mentorship pre-test** for the project:
+This repository contains my submission materials for the **WasmEdge pre-test** for the project:
 
 **Enable JIT mode support for per-function compilation**  
 https://github.com/WasmEdge/WasmEdge/issues/4516
